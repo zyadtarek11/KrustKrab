@@ -4,23 +4,6 @@ body {
   margin: 0;
   padding: 0;
 }
-.nav-bar {
-  border-style: none;
-  background-color: aqua;
-  margin: 0;
-}
-.nav-item {
-  display: inline-block;
-  width:auto;
-  height: calc(1rem+5vh);
-  padding: 15px 10px 10px 15px;
-  background-color: yellow;
-  margin: 0;
-}
-.nav-logo img{
-  height: 60px; /* Adjust the height of the logo */
-  width: auto;
-}
 .hero-section {
   z-index: 1;
   position: relative; /*if we didnt specify a height other properties won't work like position*/
